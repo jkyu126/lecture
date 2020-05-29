@@ -133,6 +133,7 @@ Overleaf
 # R markdown Cheet sheet
 
 - 주소: https://rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
+- 긴 버전 (영어): https://www.markdownguide.org/basic-syntax/
 
 # 논문 형식
 

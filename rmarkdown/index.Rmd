@@ -176,7 +176,7 @@ knitr::include_graphics('images/ref-rcloud.png')
 - 문서 마지막에 "# Reference"를 입력해주면 reference 정리 완료
 
 최종 문서 샘플
-- 주소: https://github.com/jkyu126/lecture/rmarkdown/result_sample.pdf
+- 주소: https://github.com/jkyu126/lecture/tree/master/rmarkdown/result_sample.pdf
 
 감사합니다.
 
